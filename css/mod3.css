@@ -1,0 +1,46 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	
+}
+
+.navbar
+{
+border: none;
+background-color: rgb(20, 20, 20);
+color: #383838;
+}
+
+.center
+{
+	width: 90%;
+	background-color: grey;
+}
+
+.container
+{
+	background-color: grey;
+    padding: 20px;
+}
+
+.text-center
+{
+	font-size: 30px;
+}
+
+h2
+{
+	text-align: center;
+}
+
+#nav ul li a 
+{
+	color: #676767;
+    font-size: 20px;
+}
+
+.navbar-brand
+{
+    font-size: 30px;	
+}
