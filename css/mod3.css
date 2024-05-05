@@ -21,6 +21,8 @@ color: #383838;
 {
 	background-color: grey;
     padding: 20px;
+    border: 5px solid;
+    border-radius: 10px;
 }
 
 .text-center
