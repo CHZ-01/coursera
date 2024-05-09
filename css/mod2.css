@@ -74,7 +74,7 @@ section > div
 /*desktop*/
 @media (min-width: 992px) 
 {
-    .dsk 
+    .column-lg-4 
     {
         float: left;
         width: 33.33%;
@@ -84,7 +84,7 @@ section > div
 /*tablet*/
 @media (min-width: 768px) and (max-width: 991px) 
 {
-    .tab1
+    .colmn-md-6
     {
         float: left;
         width: 50%;
@@ -92,7 +92,7 @@ section > div
         margin-right: auto;
     }
 
-    .tab2 
+    .colmn-md-12 
     {
         float: left;
         width: 100%;
@@ -104,7 +104,7 @@ section > div
 /*mobile*/
 @media (max-width: 767px) 
 {
-    .phn 
+    .colmn-sm-12 
     {
         float: left;
         width: 100%;
