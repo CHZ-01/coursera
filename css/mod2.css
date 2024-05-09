@@ -15,7 +15,6 @@ h1
     font-size: 50px;
     margin-top: 50px;
     margin-bottom: 20px;
-    color: rgb(106, 35, 35);
 }
 
 section
@@ -50,17 +49,17 @@ section > div
 
 .s1
 {
-    background-color: rgb(66, 138, 138);
+    background-color: #d59898;
 }
 
 .s2
 {
-    background-color: rgb(79, 4, 119);
+    background-color: #c14543;
 }
 
 .s3
 {
-    background-color: rgb(165, 67, 29);
+    background-color: #e4d198;
 }
 
 .content 
